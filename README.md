@@ -1,1 +1,1 @@
-Ches website
+Chess website
